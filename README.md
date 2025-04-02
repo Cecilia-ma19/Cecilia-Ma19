@@ -11,5 +11,4 @@ Busco sempre aprimorar meus conhecimentos por meio de cursos, certificações, e
 ## 🚀 Tecnologias & Ferramentas
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma,mysql,python" alt="Tecnologias" />
-un fact: ...
--->
+
